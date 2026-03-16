@@ -48,7 +48,8 @@ for i in range(n):
     print('X%d = %0.2f '%(i,x[i]),end='')
 ## Output:
 ![gaussian elimination]()
-C:\Users\Rougith\Documents\gaussian.jpeg
+![alt text](C:\Users\Rougith\Documents\gaussian.jpeg)
+
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
 
