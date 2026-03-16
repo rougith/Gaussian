@@ -21,6 +21,7 @@ Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: Rougith D
 RegisterNumber: 25017014
 */
+```
 import numpy as np
 import sys
 
@@ -46,6 +47,7 @@ for i in range(n-2,-1,-1):
         x[i]=x[i]/a[i][i]
 for i in range(n):
     print('X%d = %0.2f '%(i,x[i]),end='')
+```
 ## Output:
 ![gaussian elimination]()
 ![alt text](C:\Users\Rougith\Documents\gaussian.jpeg)
