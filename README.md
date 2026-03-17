@@ -49,7 +49,7 @@ for i in range(n):
     print('X%d = %0.2f '%(i,x[i]),end='')
 ```
 ## Output:
-![gaussian elimination]()
+
 <img width="1169" height="876" alt="image" src="https://github.com/user-attachments/assets/043961be-ce69-4705-9e5b-2737ff43383f" />
 
 ## Result:
